@@ -8,6 +8,7 @@ class Project(models.Model):
     image = models.ImageField(upload_to="project\image", max_length=None)
     github = models.CharField(max_length=256, null=True, blank=True)
     demo = models.CharField(max_length=256, null=True, blank=True)
+    blog = models.BooleanField(default=False)
 
     def __str__(self):
         return self.title

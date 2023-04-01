@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://parksontano.com/"
+                href="https://dev.to/parksontano"
                 target="_blank"
                 rel="noreferrer"
               >

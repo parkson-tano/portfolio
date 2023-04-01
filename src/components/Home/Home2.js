@@ -19,15 +19,37 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics languages like
-              <i>
-                <b className="purple"> Javascript and Python. </b>
-              </i>
+              As a Full-Stack Developer with expertise in React and Django,
+              I have accumulated over 5 years of experience in web development and data analytics.
+              I am also a seasoned teacher with over 4 years of experience,
+              helping students to gain practical skills in web development.
+
               <br />
               <br />
+              I am a self-motivated and hardworking individual who is passionate about
+              building new technologies and products. Using Languages and framework like
+              <ul>
+                <li>
+                  <i>
+                    <b className="purple"> Javascript and Python. </b>
+                  </i>
+                </li>
+                <li>
+                  <i>
+                    <b className="purple"> React JS and React Native </b>
+                  </i>
+                </li>
+                <li>
+                  <i>
+                    <b className="purple"> Django and Django RestFramework</b>
+                  </i>
+                </li>
+                <li>
+                  <i>
+                    <b className="purple"> Python data analytic modules </b>
+                  </i>
+                </li>
+              </ul>
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
